@@ -130,7 +130,7 @@ button{
 
     .card-container {
         flex-direction: column;
-        width: 100%;       
+        width: 200%;       
     }
 
     .picture.mobile{
